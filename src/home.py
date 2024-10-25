@@ -3,7 +3,7 @@ from tkVideoPlayer import tkvideoplayer
 
 def homeScreen(root):
     videoplayer = tkvideoplayer.TkinterVideo(master=root, scaled=True)
-    videoplayer.load(r"./assets/space_background.gif")
+    videoplayer.load(r"./assets/space_background2.mp4")
 
     def video_ended(event):
         videoplayer.seek(1)
