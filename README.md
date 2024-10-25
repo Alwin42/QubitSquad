@@ -1,38 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# STELLAR DEED
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: QubitSquad
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Allen Jude](https://github.com/Ajallen14/) - Albertian Institute Of Science And Technology
+- Member 2: [Alwin Emmanuel](https://github.com/Alwin42/) - Albertian Institute Of Science And Technology
+- Member 3: [Alen T L](https://github.com/Alentl/) - Albertian Institute Of Science And Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+StellarDeed aims to revolutionize the concept of land ownership by enabling individuals to register land parcels on various planets. This futuristic initiative merges technology and space exploration to create a comprehensive and legally recognized planetary land registry
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+A way to buy land in space
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A fun interactive app to buy and sell land in space
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- sqllite
+- customTkinter
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
