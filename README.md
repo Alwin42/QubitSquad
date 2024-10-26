@@ -13,24 +13,23 @@
 - Member 3: [Alen T L](https://github.com/Alentl/) - Albertian Institute Of Science And Technology
 
 ### Project Description
-StellarDeed aims to revolutionize the concept of land ownership by enabling individuals to register land parcels on various planets. This futuristic initiative merges technology and space exploration to create a comprehensive and legally recognized planetary land registry
+StellarDeed aims to kill time and its a useless website to kill time just looking at it and enjoy the beauty if solar system
 
 ### The Problem (that doesn't exist)
-A way to buy land in space
+An end of solar system
 
 ### The Solution (that nobody asked for)
-A fun interactive app to buy and sell land in space
+A fun interactive to live in space
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- Python
-- sqllite
-- customTkinter
+HTML
+CSS
+Java script
 
 
 ### Implementation
-For Software:
+install live server and go live (VS Code)
 # Installation
 [commands]
 
@@ -38,10 +37,10 @@ For Software:
 [commands]
 
 ### Project Documentation
-For Software:
+
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]([https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)])
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
