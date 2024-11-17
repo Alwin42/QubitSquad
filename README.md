@@ -15,10 +15,9 @@
 StellarDeed aims to revolutionize the concept of land ownership by enabling individuals to register land parcels on various planets. This futuristic initiative merges technology and space exploration to create a comprehensive and legally recognized planetary land registry
 
 ### The Problem (that doesn't exist)
-A way to buy land in space
+To destroy galaxy 
 
 ### The Solution (that nobody asked for)
-A fun interactive app to buy and sell land in space
 
 ## Technical Details
 ### Technologies/Components Used
@@ -42,13 +41,16 @@ For Software:
 For Software:
 
 # Screenshots 
-![](https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)
+![ScreenShot](https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)
+
+
 *Screenshot of the result*
 
 
 ### Project Demo
 # Video
-[](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
+
 *This video shows how to run and the result*
 
 
