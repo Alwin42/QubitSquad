@@ -2,7 +2,6 @@
 
 # STELLAR DEED
 
-
 ## Basic Details
 ### Team Name: QubitSquad
 
@@ -24,8 +23,10 @@ A fun interactive app to buy and sell land in space
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- Python
-- sqllite
+- html
+- css
+- Javascript
+- NEXT js
 
 
 
@@ -41,46 +42,16 @@ For Software:
 For Software:
 
 # Screenshots 
-![(https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)]
+![](https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)
 *Screenshot of the result*
 
 
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
-[(https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)]
+[](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
 *This video shows how to run and the result*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
