@@ -41,15 +41,15 @@ For Software:
 For Software:
 
 # Screenshots 
-![ScreenShot](https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)
-
+![ScreenShot]
+![Screenshot](https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)
 
 *Screenshot of the result*
 
 
 ### Project Demo
 # Video
-[](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
+[video](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
 
 *This video shows how to run and the result*
 
