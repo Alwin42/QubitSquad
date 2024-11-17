@@ -49,7 +49,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Video](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
+[](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
 
 *This video shows how to run and the result*
 
