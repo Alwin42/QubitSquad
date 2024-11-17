@@ -41,15 +41,15 @@ For Software:
 For Software:
 
 # Screenshots 
-![ScreenShot]
-![Screenshot](https://drive.google.com/file/d/1XnXeqG_N8JVBciN3fk0KkKGOaIWhb7J3/view?usp=sharing)
+
+![](https://github.com/Alwin42/QubitSquad/blob/main/screenshot/Stellar%20deed.png)
 
 *Screenshot of the result*
 
 
 ### Project Demo
 # Video
-[video](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
+[video link](https://drive.google.com/file/d/1w_iRzQkjf9XfF7_QVa1z5m0l2U7HMn6R/view?usp=sharing)
 
 *This video shows how to run and the result*
 
